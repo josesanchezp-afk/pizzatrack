@@ -408,6 +408,7 @@ try {
 
 ---
 
-**Documento generado por:** Ingeniero en Sistemas  
+
+                            
 **Fecha:** 2026-05-17  
 **Versión:** 1.0
